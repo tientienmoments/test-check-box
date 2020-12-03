@@ -1,0 +1,12 @@
+* {
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+.style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 20vh;
+}

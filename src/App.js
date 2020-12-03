@@ -18,20 +18,17 @@ function App() {
         </label>
         <br></br>
         <label>
-          <Checkbox name="tos" />
+          <Checkbox />
           <span>Item 1</span>
         </label>
         <br></br>
         <label>
-          <Checkbox name="privacy-policy" />
+          <Checkbox />
           <span>Item 2</span>
         </label>
         <br></br>
         <label>
-          <Checkbox
-            name="personalized"
-            data-extra="all props will be available here"
-          />
+          <Checkbox />
           <span>Item 3</span>
         </label>
       </CheckboxGroup>
